@@ -2,4 +2,4 @@
 Tic Tac Toe By rohanpatilgaikwad
 <br>
 
-author- Rohan Gaikwad
+author- Rohan Gaikwad Patil
